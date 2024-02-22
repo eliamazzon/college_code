@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Add all files with an extension (files with a dot in the name)
+!*/          # Add directories
+!*.*         # Add files with extensions
+
+# Ignore all files with the extension _tdl.c
+!*_tdl.c
